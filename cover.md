@@ -1,4 +1,4 @@
-## Covid 2019 Visualization Dataset
+# Covid 2019 Visualization Dataset
 
 This dataset consists of information of Covid-19 cases in the world untill 2020-07-27, which was released by John Hopkin's University. The CSV files are available in [John Hopkin's University Repository](https://github.com/CSSEGISandData/COVID-19)
 
